@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Image 1. Banner (Image check karke iska exact file name ya uploaded path replace karein) -->
-<img src="banner.png" width="100%" alt="BINAYAK BHAL CHANDRA | Exploring The Unseen" />
+<img src="Banner.png" width="100%" alt="BINAYAK BHAL CHANDRA | Exploring The Unseen" />
 
 <br/>
 <br/>
