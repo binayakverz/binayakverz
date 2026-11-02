@@ -28,17 +28,32 @@ Dedicated to exploring overlooked questions, deep ideas, and the unseen mechanis
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🌐 Neural Telemetry & Terminal Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binayakverz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayakverz&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- Sci-Fi Terminal Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=70&section=header" width="100%" />
+</div>
+
+<div align="center">
+  <!-- Sci-Fi Glowing Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakverz&theme=radical&background=0D1117&border=00F0FF&stroke=00F0FF&ring=D4AF37&fire=00F0FF&currStreakNum=00F0FF&sideNums=D4AF37&sideLabels=8B949E&dates=8B949E&hide_border=false" width="95%" alt="Neural Matrix Metrics" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakverz&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <!-- Animated Sci-Fi Snake Contribution Matrix -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binayakverz/binayakverz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binayakverz/binayakverz/output/github-contribution-grid-snake.svg">
+    <img alt="Neural Synapse Flow" src="https://raw.githubusercontent.com/binayakverz/binayakverz/output/github-contribution-grid-snake.svg" width="95%" />
+  </picture>
+</div>
+
+<div align="center">
+  <!-- Cyberpunk Terminal Footer Capsule -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,12,1&height=50&section=footer" width="100%" />
 </div>
 
 ---
