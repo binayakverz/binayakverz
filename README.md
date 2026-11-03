@@ -8,7 +8,7 @@
 
 <!-- Real-time Terminal Typing Animation (Full Width - No Cutoff) -->
 <a href="https://binayakverz.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=EXPLORING+THE+UNSEEN.+QUESTIONING+WHAT+EVERYONE+ACCEPTS.;AI+%E2%80%A2+HUMAN+BEHAVIOUR+%E2%80%A2+SCIENCE+%E2%80%A2+PHILOSOPHY+%E2%80%A2+SOCIETY;BINAYAKVERZ+IS+THE+EXPLORATION.+BEYOND+ALGORITHMS+IS+THE+CONVERSATION.;FOUNDER%2C+BINAYAK+BHAIYA+-+EDUCATION+AND+RESEARCH+CENTER" alt="Typing Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=EXPLORING+THE+UNSEEN.+QUESTIONING+WHAT+EVERYONE+ACCEPTS.;INDEPENDENT+RESEARCH+IN+ARTIFICIAL+INTELLIGENCE+%26+COMPUTER+SCIENCE;BINAYAKVERZ+IS+THE+EXPLORATION.+BEYOND+ALGORITHMS+IS+THE+CONVERSATION.;FOUNDER%2C+BINAYAK+BHAIYA+-+EDUCATION+AND+RESEARCH+CENTER" alt="Typing Stream" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 <!-- 3D Metallic Quick-Access Gateway Plates -->
 <p align="center">
   <a href="https://binayakverz.com" target="_blank"><img src="https://img.shields.io/badge/MAINFRAME-binayakverz.com-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117" /></a>
-  <a href="https://binayakverz.substack.com" target="_blank"><img src="https://img.shields.io/badge/SUBSTACK-Read_Essays-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://binayakverz.substack.com" target="_blank"><img src="https://img.shields.io/badge/SUBSTACK-Research_Essays-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://binayakverz.medium.com" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-Perspectives-00AB6C?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://orcid.org/0009-0005-7901-0926" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0005--7901--0926-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0D1117" /></a>
 </p>
@@ -30,17 +30,17 @@
 **Exploring the Unseen. Questioning What Everyone Accepts.**
 
 > The world is full of questions we rarely ask, assumptions we rarely challenge, and realities we have yet to understand.  
-> BINAYAKVERZ is an independent creator-led publication dedicated to exploring the ideas, discoveries, and unanswered questions that shape our understanding of the world.  
-> From artificial intelligence and human behaviour to science, society, philosophy, and the mysteries of existence, this is a space for curious minds who want to look beyond the obvious.  
+> BINAYAKVERZ is an independent research platform and intellectual publication dedicated to exploring the ideas, discoveries, and unanswered questions that shape our understanding of the world.  
+> From artificial intelligence and human behaviour to science, society, philosophy, and the mysteries of existence, this is a space for analytical inquiry that looks beyond the obvious.  
 > We don’t just ask what is happening. We ask why it matters, what the evidence reveals, and what we might be missing.
 
 ---
 
-### 👨‍💻 About the Creator
-**Binayak Bhal Chandra** is an educator, researcher, and creator whose interests span artificial intelligence, science, human behaviour, education, society, and the future of humanity.  
+### 👨‍💻 About the Researcher
+**Binayak Bhal Chandra** is an independent AI researcher, educator, and author whose inquiries span artificial intelligence, science, human behaviour, education, society, and the future of humanity.  
 He is the Founder and CEO of **Binayak Bhaiya – Education and Research Center**, an educational initiative established in 2013 in Dharhara, Munger, Bihar, India.
 
-His approach is guided by three principles: **curiosity, critical thinking, and respect for evidence.** The objective is not to offer easy answers to every difficult question, but to investigate those questions honestly, distinguish established findings from speculation, and encourage independent thought.
+His approach is guided by three principles: **curiosity, critical thinking, and respect for evidence.** The objective is not to offer easy answers to every difficult question, but to investigate those questions honestly, distinguish established empirical findings from speculation, and encourage independent thought.
 
 ---
 
@@ -104,7 +104,7 @@ His approach is guided by three principles: **curiosity, critical thinking, and 
     <td width="50%" align="center" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,28&height=40&section=header" width="100%" />
       <h4>🎙️ Beyond Algorithms — Truth Beyond Trends</h4>
-      <p>The flagship podcast within the BINAYAKVERZ ecosystem. Through conversations and discussions, the podcast explores the human side of artificial intelligence, technology, society, psychology, and the questions that extend beyond headlines and popular narratives.</p>
+      <p>The flagship podcast within the BINAYAKVERZ research ecosystem. Through discussions, the podcast explores the human side of artificial intelligence, technology, society, psychology, and questions beyond headlines and popular narratives.</p>
       <p><b>BINAYAKVERZ is the exploration. Beyond Algorithms is the conversation.</b></p>
       <br/>
       <a href="https://youtube.com/@binayakverz" target="_blank">
@@ -116,7 +116,7 @@ His approach is guided by three principles: **curiosity, critical thinking, and 
     <td width="50%" align="center" valign="top">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,15,26&height=40&section=header" width="100%" />
       <h4>📖 Jaguar Vision — Exploring the Mind of AI</h4>
-      <p>A research-driven book project exploring artificial intelligence beyond its computational mechanics, investigating synthetic cognition, human consciousness, and the future horizons of thinking machines.</p>
+      <p>A research-driven book project exploring artificial intelligence beyond computational mechanics, investigating synthetic cognition, human consciousness, and the future horizons of thinking machines.</p>
       <p><b>Distinguishing established findings from speculation.</b></p>
       <br/>
       <a href="https://binayakverz.com" target="_blank">
@@ -155,7 +155,7 @@ Explore Binayak Bhal Chandra’s academic identity, research contributions, and 
 <div align="center">
 
 <h3>⚡ Connect With BINAYAKVERZ</h3>
-<p style="color: #94A3B8; font-size: 13px;">Follow BINAYAKVERZ for new articles, short-form insights, visual stories, discussions, and updates across our official social platforms (Handle: <b>@binayakverz</b>)</p>
+<p style="color: #94A3B8; font-size: 13px;">Follow BINAYAKVERZ for research articles, long-form inquiries, analysis, and official updates across our platforms (Handle: <b>@binayakverz</b>)</p>
 
 <p align="center">
   <a href="https://youtube.com/@binayakverz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2B0000" /></a>
