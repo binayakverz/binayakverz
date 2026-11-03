@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-<!-- Real-time Terminal Typing Animation -->
+<!-- Real-time Terminal Typing Animation (Fixed Width - No Cutoff) -->
 <a href="https://binayakverz.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=EXPLORING+THE+UNSEEN.+QUESTIONING+WHAT+EVERYONE+ACCEPTS.;AI+%E2%80%A2+HUMAN+BEHAVIOUR+%E2%80%A2+SCIENCE+%E2%80%A2+PHILOSOPHY+%E2%80%A2+SOCIETY;BINAYAKVERZ+IS+THE+EXPLORATION.+BEYOND+ALGORITHMS+IS+THE+CONVERSATION.;FOUNDER%2C+BINAYAK+BHAIYA+-+EDUCATION+AND+RESEARCH+CENTER" alt="Typing Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=EXPLORING+THE+UNSEEN.+QUESTIONING+WHAT+EVERYONE+ACCEPTS.;AI+%E2%80%A2+HUMAN+BEHAVIOUR+%E2%80%A2+SCIENCE+%E2%80%A2+PHILOSOPHY+%E2%80%A2+SOCIETY;BINAYAKVERZ+IS+THE+EXPLORATION.+BEYOND+ALGORITHMS+IS+THE+CONVERSATION.;FOUNDER%2C+BINAYAK+BHAIYA+-+EDUCATION+AND+RESEARCH+CENTER" alt="Typing Stream" />
 </a>
 
 <br/>
@@ -32,57 +32,61 @@
 
 ---
 
-<!-- ================= 3D GRADIENT KNOWLEDGE BOXES ================= -->
+<!-- ================= 3D COLORFUL GRADIENT KNOWLEDGE BOXES ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=50&text=PILLARS%20OF%20INQUIRY%20%E2%80%A2%20CORE%20DOMAINS&fontSize=16&fontColor=00F0FF&stroke=00F0FF&strokeWidth=1" width="100%" />
 </div>
 
 <br/>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 12px;">
+<table width="100%">
   <tr>
-    <td width="50%" bgcolor="#0B132B" style="border: 2px solid #00F0FF; border-radius: 12px; padding: 18px; box-shadow: 0px 8px 24px rgba(0, 240, 255, 0.2);">
-      <h3 style="color: #00F0FF; margin-top: 0;">🤖 Artificial Intelligence & Technology</h3>
-      <p style="color: #E0E1DD; font-size: 14px;">Investigating capabilities, ethical challenges, algorithmic boundaries, societal consequences, and the future trajectory of human-machine interaction.</p>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10&height=35&text=%F0%9F%A4%96%20Artificial%20Intelligence%20%26%20Technology&fontSize=14&fontColor=00F0FF" width="100%" />
+      <br/>
+      <p>Investigating capabilities, ethical challenges, algorithmic boundaries, societal consequences, and the future trajectory of human-machine interaction.</p>
     </td>
-    <td width="50%" bgcolor="#1C1427" style="border: 2px solid #FF007F; border-radius: 12px; padding: 18px; box-shadow: 0px 8px 24px rgba(255, 0, 127, 0.2);">
-      <h3 style="color: #FF007F; margin-top: 0;">🧠 Human Behaviour & Psychology</h3>
-      <p style="color: #E0E1DD; font-size: 14px;">Examining the hidden cognitive mechanisms, biases, belief systems, and internal forces that dictate everyday decisions and learning.</p>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=35&text=%F0%9F%A7%A0%20Human%20Behaviour%20%26%20Psychology&fontSize=14&fontColor=FF007F" width="100%" />
+      <br/>
+      <p>Examining the hidden cognitive mechanisms, biases, belief systems, and internal forces that dictate everyday decisions and learning.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" bgcolor="#1B1A47" style="border: 2px solid #7928CA; border-radius: 12px; padding: 18px; box-shadow: 0px 8px 24px rgba(121, 40, 202, 0.2);">
-      <h3 style="color: #A855F7; margin-top: 0;">🔭 Science, Space & Philosophy</h3>
-      <p style="color: #E0E1DD; font-size: 14px;">From cosmic origins to the limits of empirical understanding, addressing consciousness and existence by balancing reason with verifiable evidence.</p>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,14,20&height=35&text=%F0%9F%94%AD%20Science,%20Space%20%26%20Philosophy&fontSize=14&fontColor=A855F7" width="100%" />
+      <br/>
+      <p>From cosmic origins to the limits of empirical understanding, addressing consciousness and existence by balancing reason with verifiable evidence.</p>
     </td>
-    <td width="50%" bgcolor="#1A1F16" style="border: 2px solid #D4AF37; border-radius: 12px; padding: 18px; box-shadow: 0px 8px 24px rgba(212, 175, 55, 0.2);">
-      <h3 style="color: #D4AF37; margin-top: 0;">📚 Society, Education & Impact</h3>
-      <p style="color: #E0E1DD; font-size: 14px;">Examining changing employment landscapes, degree vs skills, and actionable education led through <b>Binayak Bhaiya – Education & Research Center</b> (Est. 2013).</p>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,15,30&height=35&text=%F0%9F%93%9A%20Society,%20Education%20%26%20Impact&fontSize=14&fontColor=FFD700" width="100%" />
+      <br/>
+      <p>Examining changing employment landscapes, degree vs skills, and actionable education led through <b>Binayak Bhaiya – Education & Research Center</b> (Est. 2013).</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ================= 3D PODCAST & CODEX PLATES ================= -->
-<table width="100%" style="border-collapse: separate; border-spacing: 12px;">
+<!-- ================= 3D PODCAST & BOOK PLATES ================= -->
+<table width="100%">
   <tr>
-    <td width="50%" align="center" bgcolor="#1A0B10" style="border: 2px solid #FF3366; border-radius: 14px; padding: 20px;">
-      <h3 style="color: #FF3366; margin: 4px 0;">🎙️ BEYOND ALGORITHMS</h3>
-      <p style="color: #F87171; font-style: italic; margin-bottom: 12px;">Truth Beyond Trends</p>
-      <p style="color: #CBD5E1; font-size: 13px;">The flagship podcast dedicated to exploring the human side of AI, technological transformations, and narratives beyond headlines.</p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,28&height=40&text=%F0%9F%8E%99%EF%B8%8F%20PODCAST:%20BEYOND%20ALGORITHMS&fontSize=15&fontColor=FF3366" width="100%" />
+      <p><i>Truth Beyond Trends</i></p>
+      <p>The flagship podcast dedicated to exploring the human side of AI, technological transformations, and narratives beyond headlines.</p>
       <br/>
       <a href="https://youtube.com/@binayakverz" target="_blank">
         <img src="https://img.shields.io/badge/WATCH_BROADCAST-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2B0000" />
       </a>
     </td>
-    <td width="50%" align="center" bgcolor="#1A1500" style="border: 2px solid #EAB308; border-radius: 14px; padding: 20px;">
-      <h3 style="color: #FACC15; margin: 4px 0;">📖 JAGUAR VISION</h3>
-      <p style="color: #FDE047; font-style: italic; margin-bottom: 12px;">Exploring the Mind of AI</p>
-      <p style="color: #CBD5E1; font-size: 13px;">A comprehensive codex investigating synthetic cognition, computational agency, and the conceptual horizons of intelligence.</p>
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,15,26&height=40&text=%F0%9F%93%96%20BOOK:%20JAGUAR%20VISION&fontSize=15&fontColor=FACC15" width="100%" />
+      <p><i>Exploring the Mind of AI</i></p>
+      <p>A comprehensive published work investigating synthetic cognition, computational agency, and the conceptual horizons of intelligence.</p>
       <br/>
       <a href="https://binayakverz.com" target="_blank">
-        <img src="https://img.shields.io/badge/ACCESS_CODEX-D4AF37?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=332400" />
+        <img src="https://img.shields.io/badge/EXPLORE_BOOK-D4AF37?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=332400" />
       </a>
     </td>
   </tr>
@@ -99,29 +103,29 @@
 
 <table width="100%">
   <thead>
-    <tr style="background: linear-gradient(90deg, #00F0FF, #7928CA);">
-      <th align="left" style="color: #030712; padding: 10px;">INDEX / REPOSITORY</th>
-      <th align="left" style="color: #030712; padding: 10px;">SECURE ACCESS GATE</th>
-      <th align="left" style="color: #030712; padding: 10px;">NODE IDENTIFIER</th>
+    <tr>
+      <th align="left">INDEX / REPOSITORY</th>
+      <th align="left">SECURE ACCESS GATE</th>
+      <th align="left">NODE IDENTIFIER</th>
     </tr>
   </thead>
   <tbody>
-    <tr bgcolor="#0D1117">
+    <tr>
       <td>🪪 <b>ORCID Record</b></td>
       <td><a href="https://orcid.org/0009-0005-7901-0926"><b>Query Registry Profile</b></a></td>
       <td><code>0009-0005-7901-0926</code></td>
     </tr>
-    <tr bgcolor="#161B22">
+    <tr>
       <td>🌐 <b>Web of Science</b></td>
       <td><a href="https://www.webofscience.com/wos/author/record/RFB-8357-2026"><b>ResearcherID Gateway</b></a></td>
       <td><code>RFB-8357-2026</code></td>
     </tr>
-    <tr bgcolor="#0D1117">
+    <tr>
       <td>🎓 <b>Google Scholar</b></td>
       <td><a href="https://scholar.google.com/citations?user=NkFPkh4AAAAJ&hl=en"><b>Scholarly Citations</b></a></td>
       <td><code>NkFPkh4AAAAJ</code></td>
     </tr>
-    <tr bgcolor="#161B22">
+    <tr>
       <td>📑 <b>Zenodo Open Archive</b></td>
       <td><a href="https://zenodo.org/records/23103701"><b>Preprints & Data Archive</b></a></td>
       <td><code>Record: 23103701</code></td>
