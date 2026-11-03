@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<!-- Real-time Terminal Typing Animation (Fixed Width & Sizing - No Cutoff) -->
+<!-- Real-time Terminal Typing Animation (Full Width - No Cutoff) -->
 <a href="https://binayakverz.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=EXPLORING+THE+UNSEEN.+QUESTIONING+WHAT+EVERYONE+ACCEPTS.;AI+%E2%80%A2+HUMAN+BEHAVIOUR+%E2%80%A2+SCIENCE+%E2%80%A2+PHILOSOPHY+%E2%80%A2+SOCIETY;BINAYAKVERZ+IS+THE+EXPLORATION.+BEYOND+ALGORITHMS+IS+THE+CONVERSATION.;FOUNDER%2C+BINAYAK+BHAIYA+-+EDUCATION+AND+RESEARCH+CENTER" alt="Typing Stream" />
 </a>
@@ -26,15 +26,27 @@
 
 </div>
 
-### 🌌 Exploring the Unseen. Questioning What Everyone Accepts.
+### 🌌 About BINAYAKVERZ
+**Exploring the Unseen. Questioning What Everyone Accepts.**
 
-> *The world is full of questions we rarely ask, assumptions we rarely challenge, and realities we have yet to understand. BINAYAKVERZ is an independent creator-led publication and research ecosystem dedicated to looking beyond the obvious—asking not just what is happening, but why it matters, what the evidence reveals, and what we might be missing.*
+> The world is full of questions we rarely ask, assumptions we rarely challenge, and realities we have yet to understand.  
+> BINAYAKVERZ is an independent creator-led publication dedicated to exploring the ideas, discoveries, and unanswered questions that shape our understanding of the world.  
+> From artificial intelligence and human behaviour to science, society, philosophy, and the mysteries of existence, this is a space for curious minds who want to look beyond the obvious.  
+> We don’t just ask what is happening. We ask why it matters, what the evidence reveals, and what we might be missing.
 
 ---
 
-<!-- ================= COLORFUL GRADIENT KNOWLEDGE BOXES ================= -->
+### 👨‍💻 About the Creator
+**Binayak Bhal Chandra** is an educator, researcher, and creator whose interests span artificial intelligence, science, human behaviour, education, society, and the future of humanity.  
+He is the Founder and CEO of **Binayak Bhaiya – Education and Research Center**, an educational initiative established in 2013 in Dharhara, Munger, Bihar, India.
+
+His approach is guided by three principles: **curiosity, critical thinking, and respect for evidence.** The objective is not to offer easy answers to every difficult question, but to investigate those questions honestly, distinguish established findings from speculation, and encourage independent thought.
+
+---
+
+<!-- ================= FULL GRADIENT WHAT WE EXPLORE BOXES ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=45&text=PILLARS%20OF%20INQUIRY%20%E2%80%A2%20CORE%20DOMAINS&fontSize=15&fontColor=00F0FF&stroke=00F0FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=48&text=%E2%9A%A1%20WHAT%20WE%20EXPLORE%20%E2%80%A2%20RESEARCH%20DOMAINS&fontSize=16&fontColor=00F0FF&stroke=00F0FF&strokeWidth=1" width="100%" />
 </div>
 
 <br/>
@@ -42,116 +54,95 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DOMAINS-ARTIFICIAL_INTELLIGENCE_%26_TECH-00F0FF?style=for-the-badge&logoColor=white&labelColor=002B49" width="100%" />
-      </div>
-      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10&height=32&section=header" width="100%" />
       <h4>🤖 Artificial Intelligence & Technology</h4>
-      <p>Investigating capabilities, ethical challenges, algorithmic boundaries, societal consequences, and the future trajectory of human-machine interaction.</p>
+      <p>Artificial intelligence is changing how we think, work, learn, create, and make decisions. We explore its capabilities, limitations, ethical challenges, social consequences, and implications for the future of humanity.</p>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10,2,0&height=15&section=footer" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DOMAINS-HUMAN_BEHAVIOUR_%26_PSYCHOLOGY-FF007F?style=for-the-badge&logoColor=white&labelColor=4A0024" width="100%" />
-      </div>
-      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=32&section=header" width="100%" />
       <h4>🧠 Human Behaviour & Psychology</h4>
-      <p>Examining the hidden cognitive mechanisms, biases, belief systems, and internal forces that dictate everyday decisions and learning.</p>
+      <p>Why do we think the way we do? How do our beliefs, habits, emotions, biases, and environments influence our decisions? These explorations examine the hidden mechanisms behind everyday human behaviour.</p>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,18,12&height=15&section=footer" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DOMAINS-SCIENCE%2C_SPACE_%26_PHILOSOPHY-A855F7?style=for-the-badge&logoColor=white&labelColor=2B0A4D" width="100%" />
-      </div>
-      <br/>
-      <h4>🔭 Science, Space & Philosophy</h4>
-      <p>From cosmic origins to the limits of empirical understanding, addressing consciousness and existence by balancing reason with verifiable evidence.</p>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,14,20&height=32&section=header" width="100%" />
+      <h4>🔭 Science, Space & The Universe</h4>
+      <p>From scientific discoveries and the mysteries of the cosmos to the origins of life and the possibility of life beyond Earth, we investigate questions that expand our understanding of reality.</p>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,14,6&height=15&section=footer" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DOMAINS-SOCIETY%2C_EDUCATION_%26_IMPACT-FFD700?style=for-the-badge&logoColor=black&labelColor=4A3E00" width="100%" />
-      </div>
-      <br/>
-      <h4>📚 Society, Education & Impact</h4>
-      <p>Examining changing employment landscapes, degree vs skills, and actionable education led through <b>Binayak Bhaiya – Education & Research Center</b> (Est. 2013).</p>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,15,30&height=32&section=header" width="100%" />
+      <h4>📚 Society, Education & Employment</h4>
+      <p>We examine education systems, the relationship between degrees and skills, changing employment opportunities, social inequality, and the challenges facing young people in a rapidly transforming world.</p>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,15,1&height=15&section=footer" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,10,4&height=32&section=header" width="100%" />
+      <h4>🌌 Philosophy, Reality & Existence</h4>
+      <p>What does it mean to understand reality? How should we approach questions about consciousness, existence, knowledge, and the limits of human understanding? These explorations bring philosophical inquiry into conversation with science and reason.</p>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=4,10,18&height=15&section=footer" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,12,22&height=32&section=header" width="100%" />
+      <h4>🌍 Nature, Earth & The Future</h4>
+      <p>Explore the natural world, climate, oceans, ecosystems, technological change, and the forces shaping the future of our planet and civilisation.</p>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=22,12,5&height=15&section=footer" width="100%" />
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- ================= PODCAST & BOOK PLATES ================= -->
+<!-- ================= PODCAST & BOOK ================= -->
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/FLAGSHIP_PODCAST-BEYOND_ALGORITHMS-FF3366?style=for-the-badge&logo=youtube&logoColor=white&labelColor=3A0010" width="100%" />
-      <br/><br/>
-      <h4>🎙️ BEYOND ALGORITHMS</h4>
-      <p><i>Truth Beyond Trends</i></p>
-      <p>The flagship podcast dedicated to exploring the human side of AI, technological transformations, and narratives beyond headlines.</p>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,28&height=40&section=header" width="100%" />
+      <h4>🎙️ Beyond Algorithms — Truth Beyond Trends</h4>
+      <p>The flagship podcast within the BINAYAKVERZ ecosystem. Through conversations and discussions, the podcast explores the human side of artificial intelligence, technology, society, psychology, and the questions that extend beyond headlines and popular narratives.</p>
+      <p><b>BINAYAKVERZ is the exploration. Beyond Algorithms is the conversation.</b></p>
       <br/>
       <a href="https://youtube.com/@binayakverz" target="_blank">
         <img src="https://img.shields.io/badge/WATCH_BROADCAST-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2B0000" />
       </a>
+      <br/><br/>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=28,24,20&height=15&section=footer" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/PUBLISHED_WORK-JAGUAR_VISION-FACC15?style=for-the-badge&logoColor=black&labelColor=3A3000" width="100%" />
-      <br/><br/>
-      <h4>📖 BOOK: JAGUAR VISION</h4>
-      <p><i>Exploring the Mind of AI</i></p>
-      <p>A comprehensive published work investigating synthetic cognition, computational agency, and the conceptual horizons of intelligence.</p>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,15,26&height=40&section=header" width="100%" />
+      <h4>📖 Jaguar Vision — Exploring the Mind of AI</h4>
+      <p>A research-driven book project exploring artificial intelligence beyond its computational mechanics, investigating synthetic cognition, human consciousness, and the future horizons of thinking machines.</p>
+      <p><b>Distinguishing established findings from speculation.</b></p>
       <br/>
       <a href="https://binayakverz.com" target="_blank">
-        <img src="https://img.shields.io/badge/EXPLORE_BOOK-D4AF37?style=for-the-badge&logoColor=black&labelColor=332400" />
+        <img src="https://img.shields.io/badge/EXPLORE_BOOK-D4AF37?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=332400" />
       </a>
+      <br/><br/>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=26,15,2&height=15&section=footer" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ================= SCIENTIFIC REGISTRY ================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,10,2,0&height=40&text=SCIENTIFIC%20REGISTRY%20%E2%80%A2%20ACADEMIC%20PROFILES&fontSize=15&fontColor=D4AF37" width="100%" />
-</div>
+### 🔬 Research & Academic Profiles
+Explore Binayak Bhal Chandra’s academic identity, research contributions, and scholarly work through the following profiles:
 
-<br/>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">INDEX / REPOSITORY</th>
-      <th align="left">SECURE ACCESS GATE</th>
-      <th align="left">NODE IDENTIFIER</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🪪 <b>ORCID Record</b></td>
-      <td><a href="https://orcid.org/0009-0005-7901-0926"><b>Query Registry Profile</b></a></td>
-      <td><code>0009-0005-7901-0926</code></td>
-    </tr>
-    <tr>
-      <td>🌐 <b>Web of Science</b></td>
-      <td><a href="https://www.webofscience.com/wos/author/record/RFB-8357-2026"><b>ResearcherID Gateway</b></a></td>
-      <td><code>RFB-8357-2026</code></td>
-    </tr>
-    <tr>
-      <td>🎓 <b>Google Scholar</b></td>
-      <td><a href="https://scholar.google.com/citations?user=NkFPkh4AAAAJ&hl=en"><b>Scholarly Citations</b></a></td>
-      <td><code>NkFPkh4AAAAJ</code></td>
-    </tr>
-    <tr>
-      <td>📑 <b>Zenodo Open Archive</b></td>
-      <td><a href="https://zenodo.org/records/23103701"><b>Preprints & Data Archive</b></a></td>
-      <td><code>Record: 23103701</code></td>
-    </tr>
-  </tbody>
-</table>
+| Profile / Registry | Direct Access Link | Node ID |
+| :--- | :--- | :--- |
+| 🪪 **ORCID** | [https://orcid.org/0009-0005-7901-0926](https://orcid.org/0009-0005-7901-0926) | `0009-0005-7901-0926` |
+| 🌐 **Web of Science** | [ResearcherID Profile](https://www.webofscience.com/wos/author/record/RFB-8357-2026) | `RFB-8357-2026` |
+| 🎓 **Google Scholar** | [Scholarly Citations](https://scholar.google.com/citations?user=NkFPkh4AAAAJ&hl=en) | `NkFPkh4AAAAJ` |
+| 📑 **Zenodo** | [Research & Preprints](https://zenodo.org/records/23103701) | `Record: 23103701` |
 
 ---
 
-<!-- ================= NEURAL TELEMETRY ================= -->
+<!-- ================= TELEMETRY ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=030712&text=NEURAL%20TELEMETRY%20%E2%80%A2%20STREAM%20METRICS&fontSize=16&fontColor=00F0FF&height=42&stroke=00F0FF&strokeWidth=1" width="95%" />
   <br/><br/>
@@ -160,11 +151,11 @@
 
 ---
 
-<!-- ================= 3D PERMANENT SOCIAL DOCK ================= -->
+<!-- ================= 3D SOCIAL DOCK ================= -->
 <div align="center">
 
-<h3>⚡ Neural Transmission Gateways</h3>
-<p style="color: #94A3B8; font-size: 13px;">Direct real-time relays across official networks (Handle: <b>@binayakverz</b>)</p>
+<h3>⚡ Connect With BINAYAKVERZ</h3>
+<p style="color: #94A3B8; font-size: 13px;">Follow BINAYAKVERZ for new articles, short-form insights, visual stories, discussions, and updates across our official social platforms (Handle: <b>@binayakverz</b>)</p>
 
 <p align="center">
   <a href="https://youtube.com/@binayakverz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2B0000" /></a>
