@@ -26,23 +26,47 @@
 
 </div>
 
-### 🌌 About BINAYAKVERZ
-**Exploring the Unseen. Questioning What Everyone Accepts.**
+<!-- ================= 3D UPGRADED ABOUT SECTIONS ================= -->
 
-> The world is full of questions we rarely ask, assumptions we rarely challenge, and realities we have yet to understand.  
-> BINAYAKVERZ is an independent research platform and intellectual publication dedicated to exploring the ideas, discoveries, and unanswered questions that shape our understanding of the world.  
-> From artificial intelligence and human behaviour to science, society, philosophy, and the mysteries of existence, this is a space for analytical inquiry that looks beyond the obvious.  
-> We don’t just ask what is happening. We ask why it matters, what the evidence reveals, and what we might be missing.
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10&height=42&text=%F0%9F%8C%8C%20ABOUT%20BINAYAKVERZ%20%E2%80%A2%20RESEARCH%20PLATFORM&fontSize=16&fontColor=00F0FF" width="100%" />
+      <br/><br/>
+      <h4>🌌 Exploring the Unseen. Questioning What Everyone Accepts.</h4>
+      <p>The world is full of questions we rarely ask, assumptions we rarely challenge, and realities we have yet to understand.</p>
+      <p><b>BINAYAKVERZ</b> is an independent research platform and intellectual publication dedicated to exploring the ideas, discoveries, and unanswered questions that shape our understanding of the world.</p>
+      <p>From artificial intelligence and human behaviour to science, society, philosophy, and the mysteries of existence, this is a space for analytical inquiry that looks beyond the obvious.</p>
+      <p><i>We don’t just ask what is happening. We ask why it matters, what the evidence reveals, and what we might be missing.</i></p>
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=10,2,0&height=18&section=footer" width="100%" />
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 👨‍💻 About the Researcher
-**Binayak Bhal Chandra** is an independent AI researcher, educator, and author whose inquiries span artificial intelligence, science, human behaviour, education, society, and the future of humanity.  
-He is the Founder and CEO of **Binayak Bhaiya – Education and Research Center**, an educational initiative established in 2013 in Dharhara, Munger, Bihar, India.
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=42&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20ABOUT%20THE%20RESEARCHER%20%E2%80%A2%20LEAD%20PROFILE&fontSize=16&fontColor=FF007F" width="100%" />
+      <br/><br/>
+      <p><b>Binayak Bhal Chandra</b> is an independent AI researcher, educator, and author whose inquiries span artificial intelligence, science, human behaviour, education, society, and the future of humanity.</p>
+      <p>He is the Founder and CEO of <b>Binayak Bhaiya – Education and Research Center</b>, an educational initiative established in 2013 in Dharhara, Munger, Bihar, India.</p>
+      <p>His approach is guided by three core principles:</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PRINCIPLE_I-CURIOSITY-00F0FF?style=for-the-badge&labelColor=002B49" />
+        <img src="https://img.shields.io/badge/PRINCIPLE_II-CRITICAL_THINKING-FF007F?style=for-the-badge&labelColor=4A0024" />
+        <img src="https://img.shields.io/badge/PRINCIPLE_III-RESPECT_FOR_EVIDENCE-FFD700?style=for-the-badge&labelColor=4A3E00" />
+      </p>
+      <p>The objective is not to offer easy answers to every difficult question, but to investigate those questions honestly, distinguish established empirical findings from speculation, and encourage independent thought.</p>
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,18,12&height=18&section=footer" width="100%" />
+    </td>
+  </tr>
+</table>
 
-His approach is guided by three principles: **curiosity, critical thinking, and respect for evidence.** The objective is not to offer easy answers to every difficult question, but to investigate those questions honestly, distinguish established empirical findings from speculation, and encourage independent thought.
-
----
+<br/>
 
 <!-- ================= FULL GRADIENT WHAT WE EXPLORE BOXES ================= -->
 <div align="center">
