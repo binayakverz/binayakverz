@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<!-- Real-time Terminal Typing Animation (Fixed Width - No Cutoff) -->
+<!-- Real-time Terminal Typing Animation (Fixed Width & Sizing - No Cutoff) -->
 <a href="https://binayakverz.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=EXPLORING+THE+UNSEEN.+QUESTIONING+WHAT+EVERYONE+ACCEPTS.;AI+%E2%80%A2+HUMAN+BEHAVIOUR+%E2%80%A2+SCIENCE+%E2%80%A2+PHILOSOPHY+%E2%80%A2+SOCIETY;BINAYAKVERZ+IS+THE+EXPLORATION.+BEYOND+ALGORITHMS+IS+THE+CONVERSATION.;FOUNDER%2C+BINAYAK+BHAIYA+-+EDUCATION+AND+RESEARCH+CENTER" alt="Typing Stream" />
 </a>
@@ -32,9 +32,9 @@
 
 ---
 
-<!-- ================= 3D COLORFUL GRADIENT KNOWLEDGE BOXES ================= -->
+<!-- ================= COLORFUL GRADIENT KNOWLEDGE BOXES ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=50&text=PILLARS%20OF%20INQUIRY%20%E2%80%A2%20CORE%20DOMAINS&fontSize=16&fontColor=00F0FF&stroke=00F0FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=45&text=PILLARS%20OF%20INQUIRY%20%E2%80%A2%20CORE%20DOMAINS&fontSize=15&fontColor=00F0FF&stroke=00F0FF&strokeWidth=1" width="100%" />
 </div>
 
 <br/>
@@ -42,25 +42,37 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10&height=35&text=%F0%9F%A4%96%20Artificial%20Intelligence%20%26%20Technology&fontSize=14&fontColor=00F0FF" width="100%" />
+      <div align="center">
+        <img src="https://img.shields.io/badge/DOMAINS-ARTIFICIAL_INTELLIGENCE_%26_TECH-00F0FF?style=for-the-badge&logoColor=white&labelColor=002B49" width="100%" />
+      </div>
       <br/>
+      <h4>🤖 Artificial Intelligence & Technology</h4>
       <p>Investigating capabilities, ethical challenges, algorithmic boundaries, societal consequences, and the future trajectory of human-machine interaction.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=35&text=%F0%9F%A7%A0%20Human%20Behaviour%20%26%20Psychology&fontSize=14&fontColor=FF007F" width="100%" />
+      <div align="center">
+        <img src="https://img.shields.io/badge/DOMAINS-HUMAN_BEHAVIOUR_%26_PSYCHOLOGY-FF007F?style=for-the-badge&logoColor=white&labelColor=4A0024" width="100%" />
+      </div>
       <br/>
+      <h4>🧠 Human Behaviour & Psychology</h4>
       <p>Examining the hidden cognitive mechanisms, biases, belief systems, and internal forces that dictate everyday decisions and learning.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,14,20&height=35&text=%F0%9F%94%AD%20Science,%20Space%20%26%20Philosophy&fontSize=14&fontColor=A855F7" width="100%" />
+      <div align="center">
+        <img src="https://img.shields.io/badge/DOMAINS-SCIENCE%2C_SPACE_%26_PHILOSOPHY-A855F7?style=for-the-badge&logoColor=white&labelColor=2B0A4D" width="100%" />
+      </div>
       <br/>
+      <h4>🔭 Science, Space & Philosophy</h4>
       <p>From cosmic origins to the limits of empirical understanding, addressing consciousness and existence by balancing reason with verifiable evidence.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,15,30&height=35&text=%F0%9F%93%9A%20Society,%20Education%20%26%20Impact&fontSize=14&fontColor=FFD700" width="100%" />
+      <div align="center">
+        <img src="https://img.shields.io/badge/DOMAINS-SOCIETY%2C_EDUCATION_%26_IMPACT-FFD700?style=for-the-badge&logoColor=black&labelColor=4A3E00" width="100%" />
+      </div>
       <br/>
+      <h4>📚 Society, Education & Impact</h4>
       <p>Examining changing employment landscapes, degree vs skills, and actionable education led through <b>Binayak Bhaiya – Education & Research Center</b> (Est. 2013).</p>
     </td>
   </tr>
@@ -68,11 +80,13 @@
 
 <br/>
 
-<!-- ================= 3D PODCAST & BOOK PLATES ================= -->
+<!-- ================= PODCAST & BOOK PLATES ================= -->
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,28&height=40&text=%F0%9F%8E%99%EF%B8%8F%20PODCAST:%20BEYOND%20ALGORITHMS&fontSize=15&fontColor=FF3366" width="100%" />
+      <img src="https://img.shields.io/badge/FLAGSHIP_PODCAST-BEYOND_ALGORITHMS-FF3366?style=for-the-badge&logo=youtube&logoColor=white&labelColor=3A0010" width="100%" />
+      <br/><br/>
+      <h4>🎙️ BEYOND ALGORITHMS</h4>
       <p><i>Truth Beyond Trends</i></p>
       <p>The flagship podcast dedicated to exploring the human side of AI, technological transformations, and narratives beyond headlines.</p>
       <br/>
@@ -81,12 +95,14 @@
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,15,26&height=40&text=%F0%9F%93%96%20BOOK:%20JAGUAR%20VISION&fontSize=15&fontColor=FACC15" width="100%" />
+      <img src="https://img.shields.io/badge/PUBLISHED_WORK-JAGUAR_VISION-FACC15?style=for-the-badge&logoColor=black&labelColor=3A3000" width="100%" />
+      <br/><br/>
+      <h4>📖 BOOK: JAGUAR VISION</h4>
       <p><i>Exploring the Mind of AI</i></p>
       <p>A comprehensive published work investigating synthetic cognition, computational agency, and the conceptual horizons of intelligence.</p>
       <br/>
       <a href="https://binayakverz.com" target="_blank">
-        <img src="https://img.shields.io/badge/EXPLORE_BOOK-D4AF37?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=332400" />
+        <img src="https://img.shields.io/badge/EXPLORE_BOOK-D4AF37?style=for-the-badge&logoColor=black&labelColor=332400" />
       </a>
     </td>
   </tr>
@@ -94,7 +110,7 @@
 
 ---
 
-<!-- ================= 3D SCIENTIFIC REGISTRY ================= -->
+<!-- ================= SCIENTIFIC REGISTRY ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,10,2,0&height=40&text=SCIENTIFIC%20REGISTRY%20%E2%80%A2%20ACADEMIC%20PROFILES&fontSize=15&fontColor=D4AF37" width="100%" />
 </div>
@@ -135,7 +151,7 @@
 
 ---
 
-<!-- ================= 3D NEURAL TELEMETRY ================= -->
+<!-- ================= NEURAL TELEMETRY ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=030712&text=NEURAL%20TELEMETRY%20%E2%80%A2%20STREAM%20METRICS&fontSize=16&fontColor=00F0FF&height=42&stroke=00F0FF&strokeWidth=1" width="95%" />
   <br/><br/>
