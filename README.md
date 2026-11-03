@@ -13,25 +13,25 @@
 
 <br/>
 
-<!-- 3D Metallic Quick-Access Gateway Plates -->
+<!-- 3D Metallic Quick-Access Gateway Plates (Navy & Blue Theme) -->
 <p align="center">
-  <a href="https://binayakverz.com" target="_blank"><img src="https://img.shields.io/badge/MAINFRAME-binayakverz.com-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117" /></a>
-  <a href="https://binayakverz.substack.com" target="_blank"><img src="https://img.shields.io/badge/SUBSTACK-Research_Essays-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://binayakverz.medium.com" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-Perspectives-00AB6C?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://orcid.org/0009-0005-7901-0926" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0005--7901--0926-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://binayakverz.com" target="_blank"><img src="https://img.shields.io/badge/MAINFRAME-binayakverz.com-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a192f" /></a>
+  <a href="https://binayakverz.substack.com" target="_blank"><img src="https://img.shields.io/badge/SUBSTACK-Research_Essays-38BDF8?style=for-the-badge&logo=substack&logoColor=white&labelColor=0a192f" /></a>
+  <a href="https://binayakverz.medium.com" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-Perspectives-6366F1?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a192f" /></a>
+  <a href="https://orcid.org/0009-0005-7901-0926" target="_blank"><img src="https://img.shields.io/badge/ORCID-0009--0005--7901--0926-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0a192f" /></a>
 </p>
 
-<!-- 3D Fluid Purple-Blue Gradient Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2b5aed,6366f1,9333ea&height=70&section=header" width="100%" />
+<!-- 3D Fluid Navy to Electric Blue-Violet Gradient Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=70&section=header" width="100%" />
 
 </div>
 
-<!-- ================= PURPLE-BLUE GRADIENT ABOUT SECTIONS ================= -->
+<!-- ================= NAVY TO BLUE-VIOLET ABOUT SECTIONS ================= -->
 
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1,9333ea&height=46&text=%F0%9F%8C%8C%20ABOUT%20BINAYAKVERZ%20%E2%80%A2%20RESEARCH%20PLATFORM&fontSize=16&fontColor=ffffff" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=46&text=%F0%9F%8C%8C%20ABOUT%20BINAYAKVERZ%20%E2%80%A2%20RESEARCH%20PLATFORM&fontSize=16&fontColor=ffffff" width="100%" />
       <br/><br/>
       <h4>🌌 Exploring the Unseen. Questioning What Everyone Accepts.</h4>
       <p>The world is full of questions we rarely ask, assumptions we rarely challenge, and realities we have yet to understand.</p>
@@ -39,7 +39,7 @@
       <p>From artificial intelligence and human behaviour to science, society, philosophy, and the mysteries of existence, this is a space for analytical inquiry that looks beyond the obvious.</p>
       <p><i>We don’t just ask what is happening. We ask why it matters, what the evidence reveals, and what we might be missing.</i></p>
       <br/>
-      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9333ea,6366f1,2b5aed&height=16&section=footer" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=18&section=footer" width="100%" />
     </td>
   </tr>
 </table>
@@ -49,108 +49,145 @@
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1,9333ea&height=46&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20ABOUT%20THE%20RESEARCHER%20%E2%80%A2%20LEAD%20PROFILE&fontSize=16&fontColor=ffffff" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=46&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20ABOUT%20THE%20RESEARCHER%20%E2%80%A2%20LEAD%20PROFILE&fontSize=16&fontColor=ffffff" width="100%" />
       <br/><br/>
       <p><b>Binayak Bhal Chandra</b> is an independent AI researcher, educator, and author whose inquiries span artificial intelligence, science, human behaviour, education, society, and the future of humanity.</p>
       <p>He is the Founder and CEO of <b>Binayak Bhaiya – Education and Research Center</b>, an educational initiative established in 2013 in Dharhara, Munger, Bihar, India.</p>
       <p>His approach is guided by three core principles:</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PRINCIPLE_I-CURIOSITY-00F0FF?style=for-the-badge&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/PRINCIPLE_II-CRITICAL_THINKING-D946EF?style=for-the-badge&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/PRINCIPLE_III-RESPECT_FOR_EVIDENCE-FACC15?style=for-the-badge&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/PRINCIPLE_I-CURIOSITY-00F0FF?style=for-the-badge&labelColor=0a192f" />
+        <img src="https://img.shields.io/badge/PRINCIPLE_II-CRITICAL_THINKING-6366F1?style=for-the-badge&labelColor=0a192f" />
+        <img src="https://img.shields.io/badge/PRINCIPLE_III-RESPECT_FOR_EVIDENCE-D4AF37?style=for-the-badge&labelColor=0a192f" />
       </p>
       <p>The objective is not to offer easy answers to every difficult question, but to investigate those questions honestly, distinguish established empirical findings from speculation, and encourage independent thought.</p>
       <br/>
-      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9333ea,6366f1,2b5aed&height=16&section=footer" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=18&section=footer" width="100%" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ================= RESEARCH DOMAINS (MATCHED PURPLE-BLUE GRADIENT) ================= -->
+<!-- ================= WHAT WE EXPLORE (LEVEL-ALIGNED WITH SAME GRADIENT) ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1,9333ea&height=46&text=%E2%9A%A1%20WHAT%20WE%20EXPLORE%20%E2%80%A2%20RESEARCH%20DOMAINS&fontSize=16&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=48&text=%E2%9A%A1%20WHAT%20WE%20EXPLORE%20%E2%80%A2%20RESEARCH%20DOMAINS&fontSize=16&fontColor=ffffff" width="100%" />
 </div>
 
 <br/>
 
+<!-- Row 1: AI & Technology + Human Behaviour -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1&height=28&section=header" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=32&section=header" width="100%" />
       <h4>🤖 Artificial Intelligence & Technology</h4>
       <p>Artificial intelligence is changing how we think, work, learn, create, and make decisions. We explore its capabilities, limitations, ethical challenges, social consequences, and implications for the future of humanity.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6366f1,9333ea&height=28&section=header" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=32&section=header" width="100%" />
       <h4>🧠 Human Behaviour & Psychology</h4>
       <p>Why do we think the way we do? How do our beliefs, habits, emotions, biases, and environments influence our decisions? These explorations examine the hidden mechanisms behind everyday human behaviour.</p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=16&section=footer" width="100%" />
+    </td>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=16&section=footer" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Row 2: Science & Space + Society & Education -->
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1&height=28&section=header" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=32&section=header" width="100%" />
       <h4>🔭 Science, Space & The Universe</h4>
       <p>From scientific discoveries and the mysteries of the cosmos to the origins of life and the possibility of life beyond Earth, we investigate questions that expand our understanding of reality.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6366f1,9333ea&height=28&section=header" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=32&section=header" width="100%" />
       <h4>📚 Society, Education & Employment</h4>
       <p>We examine education systems, the relationship between degrees and skills, changing employment opportunities, social inequality, and the challenges facing young people in a rapidly transforming world.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1&height=28&section=header" width="100%" />
-      <h4>🌌 Philosophy, Reality & Existence</h4>
-      <p>What does it mean to understand reality? How should we approach questions about consciousness, existence, knowledge, and the limits of human understanding? These explorations bring philosophical inquiry into conversation with science and reason.</p>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=16&section=footer" width="100%" />
     </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6366f1,9333ea&height=28&section=header" width="100%" />
-      <h4>🌍 Nature, Earth & The Future</h4>
-      <p>Explore the natural world, climate, oceans, ecosystems, technological change, and the forces shaping the future of our planet and civilisation.</p>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=16&section=footer" width="100%" />
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9333ea,6366f1,2b5aed&height=20&section=footer" width="100%" />
-</div>
+<br/>
+
+<!-- Row 3: Philosophy & Reality + Nature & Earth -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=32&section=header" width="100%" />
+      <h4>🌌 Philosophy, Reality & Existence</h4>
+      <p>What does it mean to understand reality? How should we approach questions about consciousness, existence, knowledge, and the limits of human understanding? These explorations bring philosophical inquiry into conversation with science and reason.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=32&section=header" width="100%" />
+      <h4>🌍 Nature, Earth & The Future</h4>
+      <p>Explore the natural world, climate, oceans, ecosystems, technological change, and the forces shaping the future of our planet and civilisation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=16&section=footer" width="100%" />
+    </td>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=16&section=footer" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- ================= PODCAST & BOOK ================= -->
+<!-- ================= PODCAST & BOOK (PERFECTLY LEVEL-BALANCED) ================= -->
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1,9333ea&height=38&section=header" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=40&section=header" width="100%" />
       <h4>🎙️ Beyond Algorithms — Truth Beyond Trends</h4>
       <p>The flagship podcast within the BINAYAKVERZ research ecosystem. Through discussions, the podcast explores the human side of artificial intelligence, technology, society, psychology, and questions beyond headlines and popular narratives.</p>
       <p><b>BINAYAKVERZ is the exploration. Beyond Algorithms is the conversation.</b></p>
       <br/>
       <a href="https://youtube.com/@binayakverz" target="_blank">
-        <img src="https://img.shields.io/badge/WATCH_BROADCAST-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2B0000" />
+        <img src="https://img.shields.io/badge/WATCH_BROADCAST-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a192f" />
       </a>
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2b5aed,6366f1,9333ea&height=38&section=header" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a192f,1e3a8a,3b82f6,6366f1&height=40&section=header" width="100%" />
       <h4>📖 Jaguar Vision — Exploring the Mind of AI</h4>
       <p>A research-driven book project exploring artificial intelligence beyond computational mechanics, investigating synthetic cognition, human consciousness, and the future horizons of thinking machines.</p>
       <p><b>Distinguishing established findings from speculation.</b></p>
       <br/>
       <a href="https://binayakverz.com" target="_blank">
-        <img src="https://img.shields.io/badge/EXPLORE_BOOK-D4AF37?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=332400" />
+        <img src="https://img.shields.io/badge/EXPLORE_BOOK-D4AF37?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=0a192f" />
       </a>
       <br/><br/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=18&section=footer" width="100%" />
+    </td>
+    <td width="50%" valign="bottom">
+      <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=18&section=footer" width="100%" />
+    </td>
+  </tr>
 </table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9333ea,6366f1,2b5aed&height=20&section=footer" width="100%" />
-</div>
 
 ---
 
@@ -168,9 +205,9 @@ Explore Binayak Bhal Chandra’s academic identity, research contributions, and 
 
 <!-- ================= TELEMETRY ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=030712&text=NEURAL%20TELEMETRY%20%E2%80%A2%20STREAM%20METRICS&fontSize=16&fontColor=00F0FF&height=42&stroke=00F0FF&strokeWidth=1" width="95%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0a192f&text=NEURAL%20TELEMETRY%20%E2%80%A2%20STREAM%20METRICS&fontSize=16&fontColor=00F0FF&height=42&stroke=00F0FF&strokeWidth=1" width="95%" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakverz&theme=radical&background=030712&border=00F0FF&stroke=00F0FF&ring=D4AF37&fire=00F0FF&currStreakNum=00F0FF&sideNums=D4AF37&sideLabels=38BDF8&dates=94A3B8&hide_border=false" width="95%" alt="Neural Telemetry" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakverz&theme=radical&background=0a192f&border=00F0FF&stroke=00F0FF&ring=6366F1&fire=00F0FF&currStreakNum=00F0FF&sideNums=E2E8F0&sideLabels=38BDF8&dates=94A3B8&hide_border=false" width="95%" alt="Neural Telemetry" />
 </div>
 
 ---
@@ -192,7 +229,7 @@ Explore Binayak Bhal Chandra’s academic identity, research contributions, and 
   <a href="https://binayakverz.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" height="28" /></a>
 </p>
 
-<!-- 3D Sci-Fi Terminal Footer (Purple-Blue Wave) -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9333ea,6366f1,2b5aed&height=40&section=footer" width="100%" />
+<!-- 3D Sci-Fi Terminal Footer (Navy to Blue-Violet Wave Animation) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,3b82f6,1e3a8a,0a192f&height=50&section=footer" width="100%" />
 
 </div>
