@@ -26,12 +26,12 @@
 
 </div>
 
-<!-- ================= 3D UPGRADED ABOUT SECTIONS (CRISP TEXT & NEON BORDERS) ================= -->
+<!-- ================= 3D UPGRADED ABOUT SECTIONS (MATCHED EXACT GRADIENT) ================= -->
 
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=cylinder&color=030712&height=48&text=%E2%9A%A1%20ABOUT%20BINAYAKVERZ%20%E2%80%A2%20RESEARCH%20PLATFORM&fontSize=16&fontColor=00F0FF&stroke=00F0FF&strokeWidth=2" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=48&text=%E2%9A%A1%20ABOUT%20BINAYAKVERZ%20%E2%80%A2%20RESEARCH%20PLATFORM&fontSize=16&fontColor=FFFFFF&stroke=00F0FF&strokeWidth=1" width="100%" />
       <br/><br/>
       <h4>🌌 Exploring the Unseen. Questioning What Everyone Accepts.</h4>
       <p>The world is full of questions we rarely ask, assumptions we rarely challenge, and realities we have yet to understand.</p>
@@ -39,7 +39,7 @@
       <p>From artificial intelligence and human behaviour to science, society, philosophy, and the mysteries of existence, this is a space for analytical inquiry that looks beyond the obvious.</p>
       <p><i>We don’t just ask what is happening. We ask why it matters, what the evidence reveals, and what we might be missing.</i></p>
       <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,24&height=6" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,10,24&height=5" width="100%" />
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=cylinder&color=030712&height=48&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20ABOUT%20THE%20RESEARCHER%20%E2%80%A2%20LEAD%20PROFILE&fontSize=16&fontColor=FF007F&stroke=FF007F&strokeWidth=2" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=48&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20ABOUT%20THE%20RESEARCHER%20%E2%80%A2%20LEAD%20PROFILE&fontSize=16&fontColor=FFFFFF&stroke=00F0FF&strokeWidth=1" width="100%" />
       <br/><br/>
       <p><b>Binayak Bhal Chandra</b> is an independent AI researcher, educator, and author whose inquiries span artificial intelligence, science, human behaviour, education, society, and the future of humanity.</p>
       <p>He is the Founder and CEO of <b>Binayak Bhaiya – Education and Research Center</b>, an educational initiative established in 2013 in Dharhara, Munger, Bihar, India.</p>
@@ -61,7 +61,7 @@
       </p>
       <p>The objective is not to offer easy answers to every difficult question, but to investigate those questions honestly, distinguish established empirical findings from speculation, and encourage independent thought.</p>
       <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,0&height=6" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,10,0&height=5" width="100%" />
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@
 
 <!-- ================= FULL GRADIENT WHAT WE EXPLORE BOXES ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=48&text=%E2%9A%A1%20WHAT%20WE%20EXPLORE%20%E2%80%A2%20RESEARCH%20DOMAINS&fontSize=16&fontColor=00F0FF&stroke=00F0FF&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,10,24&height=48&text=%E2%9A%A1%20WHAT%20WE%20EXPLORE%20%E2%80%A2%20RESEARCH%20DOMAINS&fontSize=16&fontColor=FFFFFF&stroke=00F0FF&strokeWidth=1" width="100%" />
 </div>
 
 <br/>
